@@ -6,12 +6,13 @@
     font-family: sans-serif;
     background-color: #328ba8
 }
-.container{
+.box{
     height:100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #329ea8;
+    
 }
 .calc{
     box-shadow: 6px 6px 13px #fff,6px 6px 13px rgba(0,0,0,.16);
